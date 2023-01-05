@@ -12,6 +12,6 @@ We present the initial results of a proof-of-concept “smart alarm” for the C
 This repository provides companion materials to the manuscript *"A Smart Alarm for Particle Accelerator Beamline Operation"*:
 - data
     - test data
-    - [simulated data] (./Smart_Alarm.ipynb)
+    - simulated data 
 - saved model
-- Jupyter notebook
+- [Jupyter notebook] (./Smart_Alarm.ipynb)
