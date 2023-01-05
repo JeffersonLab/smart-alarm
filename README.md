@@ -13,5 +13,5 @@ This repository provides companion materials to the manuscript *"A Smart Alarm f
 - /data
     - test data: used to evaluate model performance (and create Fig. 3 from the paper)
     - simulated data: used to simulate deployed use (and create Fig. 4 from the paper)
-- /model/inverse_model: saved inverse model that takes in beamline readings and predicts settings for comparision with the control system
+- /model/inverse_model: saved model that takes in beamline readings and predicts settings for comparision with the control system
 - Jupyter notebook
