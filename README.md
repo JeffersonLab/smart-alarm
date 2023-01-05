@@ -14,4 +14,4 @@ This repository provides companion materials to the manuscript *"A Smart Alarm f
     - test data
     - simulated data 
 - saved model
-- [Jupyter notebook] (./Smart_Alarm.ipynb)
+- Jupyter notebook
